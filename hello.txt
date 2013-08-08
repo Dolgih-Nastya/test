@@ -1,1 +1,1 @@
-hello, Nastya another text
+hello, Nastya another texti ssh test
